@@ -1,0 +1,18 @@
+
+.container {
+    margin-top: 50px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#catFacts, #dogFacts, #httpStatus {
+    margin-top: 30px;
+}
+
+#dogFacts img {
+    width: 200px;
+    margin: 10px;
+    display: inline-block;
+}
